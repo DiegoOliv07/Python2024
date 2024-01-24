@@ -1,0 +1,3 @@
+import SistemaDePerguntas 
+
+SistemaDePerguntas.play()
