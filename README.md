@@ -1,18 +1,14 @@
-# Repositório de Scripts Python (2024)
+# 🐍 Python 2024
 
-Seja bem-vindo ao meu repositório dedicado aos scripts em Python desenvolvidos ao longo do ano de 2024. Aqui, você encontrará uma variedade de estudos e projetos que refletem meu aprendizado contínuo e a aplicação prática de habilidades em Python.
+👋 Bem-vindo ao meu repositório dedicado aos scripts em Python desenvolvidos ao longo do ano de 2024. Aqui, você encontrará uma variedade de estudos e projetos que refletem meu aprendizado contínuo e a aplicação prática de habilidades em Python.
 
-## Conteúdo do Repositório:
+## 🚀 Projetos
+### 🎯 Projetinhos
+Pequenos projetos com o objetivo de praticar conceitos e aprender novas habilidades.
+### 🧠 nlw-expert
+Meu primeiro projeto de back-end em Python! Desenvolvido na plataforma da Rocketseat! https://www.rocketseat.com.br/
 
-- 📚 **Estudos Python:**
-  - Códigos e scripts explorando conceitos fundamentais, desafios específicos e aprofundamento em tópicos importantes.
+## 📢 Avisos
+Este repositório será atualizado ao longo do ano de 2024, portanto está incompleto!
 
-- 🚀 **Projetos Pessoais:**
-  - Aplicações práticas de Python em projetos pessoais, demonstrando como as habilidades adquiridas são utilizadas em cenários do mundo real.
-
-- 🎯 **Desenvolvimento Contínuo:**
-  - Atualizações regulares à medida que aprendo e evoluo como desenvolvedor Python.
-
-Explore os códigos, sinta-se à vontade para fornecer feedback e acompanhe meu progresso ao longo do ano!
-
-**Obrigado por visitar!** 🐍
+🔍 Explore os códigos, sinta-se à vontade para fornecer feedback e acompanhe meu progresso ao longo do ano!
