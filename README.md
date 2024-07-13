@@ -7,8 +7,6 @@
 Pequenos projetos com o objetivo de praticar conceitos e aprender novas habilidades.
 ### 🧠 nlw-expert
 Meu primeiro projeto de back-end em Python! Desenvolvido na plataforma da Rocketseat! https://www.rocketseat.com.br/
-### 🤝 nlw-unite
-Meu segundo projeto de back-end em Python! Desenvolvido na plataforma da Rocketseat! https://www.rocketseat.com.br/
 ## 📢 Avisos
 Este repositório será atualizado ao longo do ano de 2024, portanto está incompleto!
 
