@@ -4,3 +4,5 @@
 **/pytest_cache
 **/Taskify API
 **docs
+**.env
+**/a
