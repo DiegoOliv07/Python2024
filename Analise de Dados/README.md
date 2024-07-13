@@ -1,6 +1,7 @@
 # Projetos de Inteligência Artificial
 
 Neste repositório, você encontrará uma coleção de projetos de Inteligência Artificial desenvolvidos para diversas aplicações. Cada projeto utiliza técnicas específicas de aprendizado de máquina e processamento de dados para resolver problemas do mundo real. Abaixo está uma breve descrição de cada projeto:
+_(Os projetos estão sendo desenvolvidos gradualmente.)_
 
 ## Previsão do Preço da Casa
 Utilização de algoritmos de regressão para prever o preço de casas com base em características como localização, tamanho e número de quartos.
@@ -38,3 +39,6 @@ Cada projeto contém uma documentação detalhada sobre a metodologia utilizada,
 **Contato:** seu.email@example.com
 
 Fique à vontade para explorar os projetos e contribuir com novas ideias e melhorias! 🚀
+
+---
+**⚠ Esses projetos foram inspirados por ideias disponíveis na Internet.**
